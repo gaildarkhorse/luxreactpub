@@ -2,7 +2,6 @@
 #define __SENDKEYS_04192004__INC__
 
 #include <windows.h>
-// Please see SendKeys.cpp for copyright and usage issues.
 
 class CSendKeys
 {
