@@ -11,10 +11,6 @@
 #include "resource.h"		// main symbols
 
 
-// CMouseTrickApp:
-// See MouseTrick.cpp for the implementation of this class
-//
-
 class CMouseTrickApp : public CWinApp
 {
 public:
